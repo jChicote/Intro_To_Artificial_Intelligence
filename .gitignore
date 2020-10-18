@@ -137,3 +137,5 @@ JaidenChicote-TestImageClassifier/cifar_net.pth
 #Image data folders to ignore
 JaidenChicote-TestImageClassifier/image_folder_model.pth
 JaidenChicote-TestImageClassifier/image_dir/
+JaidenChicote-TrashClassifier/data/
+JaidenChicote-TrashClassifier/train_model.pth
